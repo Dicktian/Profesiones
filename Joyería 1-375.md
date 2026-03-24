@@ -10,30 +10,43 @@ Nota: Esta guía está enfocada en el leveo eficiente de joyería, priorizando m
 
 Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas.
 
-| | | | |
-|---|---|---|---|
-| 
-- Piedra Férrea = 136  
-- Barra de Bronce = 86  
-- Engarce de Bronce = 25  
-- Piedra lunar inferior = 40  
-- Barra de Mitril = 16  
-| 
-- Filigrana de Mitril = 3  
-- Citrino = 8  
-- Piedra Sólida = 60  
-- Barra de Veraplata = 72  
-- Aguamarina = 8  
-| 
-- Frasco de Mojo = 8  
-- Barra de Torio = 7  
-- Corazón de Fiera = 24  
-- Engarce de Torio = 8  
-- Zafiro Azul = 6  
-| 
-- Esencia de No-Muerto = 6  
-- Diamante Negro = 6  
-- Espesartita de llamas = 7  
-- Draenita Dorada = 2  
-- Sangrita = 8  
-|
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Piedra Férrea = 136</li>
+        <li>Barra de Bronce = 86</li>
+        <li>Engarce de Bronce = 25</li>
+        <li>Piedra lunar inferior = 40</li>
+        <li>Barra de Mitril = 16</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Filigrana de Mitril = 3</li>
+        <li>Citrino = 8</li>
+        <li>Piedra Sólida = 60</li>
+        <li>Barra de Veraplata = 72</li>
+        <li>Aguamarina = 8</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Frasco de Mojo = 8</li>
+        <li>Barra de Torio = 7</li>
+        <li>Corazón de Fiera = 24</li>
+        <li>Engarce de Torio = 8</li>
+        <li>Zafiro Azul = 6</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Esencia de No-Muerto = 6</li>
+        <li>Diamante Negro = 6</li>
+        <li>Espesartita de llamas = 7</li>
+        <li>Draenita Dorada = 2</li>
+        <li>Sangrita = 8</li>
+      </ul>
+    </td>
+  </tr>
+</table>
