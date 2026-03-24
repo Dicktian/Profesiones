@@ -10,10 +10,30 @@ Nota: Esta guía está enfocada en el leveo eficiente de joyería, priorizando m
 
 Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas.
 
-|                         |                         |                         |                         |
-|-------------------------|-------------------------|-------------------------|-------------------------|
-| Piedra Férrea = 136     | Barra de Bronce = 86    | Engarce de Bronce = 25  | Piedra lunar inferior = 40 |
-| Barra de Mitril = 16    | Filigrana de Mitril = 3 | Citrino = 8             | Piedra Sólida = 60      |
-| Barra de Veraplata = 72 | Aguamarina = 8          | Frasco de Mojo = 8      | Barra de Torio = 7      |
-| Corazón de Fiera = 24   | Engarce de Torio = 8    | Zafiro Azul = 6         | Esencia de No-Muerto = 6 |
-| Diamante Negro = 6      | Espesartita de llamas = 7 | Draenita Dorada = 2   | Sangrita = 8            |
+| | | | |
+|---|---|---|---|
+| 
+- Piedra Férrea = 136  
+- Barra de Bronce = 86  
+- Engarce de Bronce = 25  
+- Piedra lunar inferior = 40  
+- Barra de Mitril = 16  
+| 
+- Filigrana de Mitril = 3  
+- Citrino = 8  
+- Piedra Sólida = 60  
+- Barra de Veraplata = 72  
+- Aguamarina = 8  
+| 
+- Frasco de Mojo = 8  
+- Barra de Torio = 7  
+- Corazón de Fiera = 24  
+- Engarce de Torio = 8  
+- Zafiro Azul = 6  
+| 
+- Esencia de No-Muerto = 6  
+- Diamante Negro = 6  
+- Espesartita de llamas = 7  
+- Draenita Dorada = 2  
+- Sangrita = 8  
+|
