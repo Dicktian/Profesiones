@@ -50,3 +50,145 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
     </td>
   </tr>
 </table>
+
+<h3 style="color:#B8860B;">Tabla de Leveo</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Puntos</th>
+      <th>Cantidad</th>
+      <th>Receta</th>
+      <th>Materiales totales</th>
+      <th>Notas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1-52</td>
+      <td>17</td>
+      <td>Estatua de Piedra Férrea</td>
+      <td>136 Piedra Férrea</td>
+      <td>Repetir (~7 veces)</td>
+    </tr>
+    <tr>
+      <td>52-82</td>
+      <td>13</td>
+      <td>Engarce de Bronce</td>
+      <td>26 Barra de Bronce</td>
+      <td>A veces 2-3 más (hacer extra para otras recetas)</td>
+    </tr>
+    <tr>
+      <td>82-112</td>
+      <td>10</td>
+      <td>Torques de Bronce</td>
+      <td>60 Barra de Bronce + 10 Engarce de Bronce + 10 Piedra lunar inferior</td>
+      <td>A veces 1 más</td>
+    </tr>
+    <tr>
+      <td>112-157</td>
+      <td>15</td>
+      <td>Amuleto de la Luna</td>
+      <td>30 Piedra lunar inferior + 15 Engarce de Bronce</td>
+      <td>Receta AH. A veces 1-2 más</td>
+    </tr>
+    <tr>
+      <td>157-166</td>
+      <td>3</td>
+      <td>Filigrana de Mitril</td>
+      <td>6 Barra de Mitril</td>
+      <td>A veces 1 más</td>
+    </tr>
+    <tr>
+      <td>163-175</td>
+      <td>3</td>
+      <td>Anillo de Citrino Llameante</td>
+      <td>3 Citrino + 3 Filigrana de Mitril</td>
+      <td>Receta AH. A veces 1-2 más</td>
+    </tr>
+    <tr>
+      <td>175-187</td>
+      <td>6</td>
+      <td>Estatua de Piedra Sólida</td>
+      <td>60 Piedra Sólida</td>
+      <td>A veces 2-3 más</td>
+    </tr>
+    <tr>
+      <td>187-202</td>
+      <td>5</td>
+      <td>Anillo de Citrino de Sanación Rápida</td>
+      <td>5 Citrino + 10 Barra de Mitril</td>
+      <td>A veces 1-2 más</td>
+    </tr>
+    <tr>
+      <td>202-220</td>
+      <td>6</td>
+      <td>Amuleto de Veramira</td>
+      <td>48 Barra de Veraplata</td>
+      <td>A veces 1 más</td>
+    </tr>
+    <tr>
+      <td>220-226</td>
+      <td>2</td>
+      <td>Sello de Aguamarina</td>
+      <td>6 Aguamarina + 8 Frasco de Mojo</td>
+      <td>A veces 1 más</td>
+    </tr>
+    <tr>
+      <td>226-247</td>
+      <td>7</td>
+      <td>Engarce de Torio</td>
+      <td>7 Barra de Torio</td>
+      <td>A veces 2-3 más</td>
+    </tr>
+    <tr>
+      <td>247-280</td>
+      <td>12</td>
+      <td>Anillo de Veraplata de Sanación</td>
+      <td>24 Barra de Veraplata + 24 Corazón de Fiera</td>
+      <td>A veces 2-3 más</td>
+    </tr>
+    <tr>
+      <td>280-286</td>
+      <td>2</td>
+      <td>La Protección Aguamarina</td>
+      <td>2 Aguamarina + 2 Engarce de Torio</td>
+      <td>Receta AH. A veces 1 más</td>
+    </tr>
+    <tr>
+      <td>286-300</td>
+      <td>6</td>
+      <td>Colgante de Zafiro de Noche Invernal</td>
+      <td>6 Zafiro Azul + 6 Esencia de No-Muerto + 6 Engarce de Torio</td>
+      <td>A veces 1 más</td>
+    </tr>
+    <tr>
+      <td>300-320</td>
+      <td>6</td>
+      <td>Diamante Negro Centelleante</td>
+      <td>6 Diamante Negro</td>
+      <td>Repetir (~10 veces)</td>
+    </tr>
+    <tr>
+      <td>300-341</td>
+      <td>7</td>
+      <td>Espesartita de Llamas Destellante</td>
+      <td>7 Espesartita de llamas</td>
+      <td>A veces 1-2 más</td>
+    </tr>
+    <tr>
+      <td>341-350</td>
+      <td>3</td>
+      <td>Draenita Dorada Rígida</td>
+      <td>2 Draenita Dorada</td>
+      <td>Repetir (~3 veces)</td>
+    </tr>
+    <tr>
+      <td>350-375</td>
+      <td>8</td>
+      <td>Sangrita Rúnica</td>
+      <td>8 Sangrita</td>
+      <td>A veces 1 más (ya puedes hacer mega gemas)</td>
+    </tr>
+  </tbody>
+</table>
