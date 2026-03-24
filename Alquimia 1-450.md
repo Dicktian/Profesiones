@@ -2,7 +2,7 @@
 
 Recientemente subí la alquimia de varios personajes a 450, por lo que decidí actualizar la guía de Zelta (2016) y Dagax (2019) considerando los multiplicadores actuales, además de ajustar algunas recetas por opciones más accesibles en la casa de subastas, el crédito corresponde a Zelta y Dagax; gracias por su gran aporte a la comunidad de Warmane.
 
-Nota: Esta guía está enfocada en la especialidad de transmutación, y te recomiendo contar con un personaje de nivel 68 para poder acceder a la misión correspondiente.
+Nota: Esta guía está enfocada en la especialidad de transmutación, y te recomiendo contar con tu personaje al nivel 68 para poder acceder a la misión correspondiente.
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
 
