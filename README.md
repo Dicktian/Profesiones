@@ -1,1 +1,1 @@
-Comprendio de leveo de profesiones, enfocado en WOW Warmane 3.3.5 (X3)
+Compendio de leveo de profesiones enfocado en WoW Warmane 3.3.5 (x3)
