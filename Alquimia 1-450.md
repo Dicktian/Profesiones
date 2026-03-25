@@ -1,4 +1,4 @@
-#  Guía de Alquimía 1 -450 (Transmutación)
+#  Guía de Alquimía 1-450 (Transmutación)
 
 Recientemente subí la alquimia de varios personajes a 450, por lo que decidí actualizar la guía de Zelta (2016) y Dagax (2019) considerando los multiplicadores actuales, además de ajustar algunas recetas por opciones más accesibles en la casa de subastas, el crédito corresponde a Zelta y Dagax; gracias por su gran aporte a la comunidad de Warmane.
 
