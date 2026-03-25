@@ -8,7 +8,7 @@ Nota: Esta guía está enfocada en el leveo eficiente de joyería, priorizando m
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
 
-Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas.
+Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas, cuando estes viendo los materiales y los puntos, verás que la guía no cuadra, eso es porque en algunas recetas puse mayores cantidades, ya que usaras lo resultante en otras recetas, por ejemplo: Engarce de Bronce,
 
 <table>
   <tr>
