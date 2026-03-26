@@ -55,9 +55,9 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Jade Oscuro = 3</li>
         <li>Fuego Eterno = 3</li>
         <li>Citrino Enorme = 3</li>
-        <li>Sangrita = 2</li>
-        <li>Calcedonia = 2</li>
-        <li>Aire Eterno = 2</li>
+        <li>Sangrita = 5</li>
+        <li>Calcedonia = 5</li>
+        <li>Aire Eterno = 5</li>
       </ul>
     </td>
   </tr>
@@ -225,10 +225,10 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
     </tr>
     <tr>
       <td>435-450</td>
-      <td>2</td>
+      <td>5</td>
       <td>Diamante de Llama Celeste</td>
-      <td>2 Sangrita + 2 Calcedonia + 2 Aire Eterno</td>
-      <td>Repetir (~5 veces)</td>
+      <td>5 Sangrita + 5 Calcedonia + 5 Aire Eterno</td>
+      <td>Repetir hasta que nos de los puntos (~5 veces)</td>
     </tr>
   </tbody>
 </table>
