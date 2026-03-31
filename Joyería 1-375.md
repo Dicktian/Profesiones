@@ -1,4 +1,4 @@
-# Guía Joyería 1-375 (Súper gemas)
+# Guía Joyería 1-450
 
 Después de levearme 3 chars (Priest, War y Shamy) al hilo, tuve que subirles joyería, en el proceso vi varias guías tanto en Warmane cómo en ÚltimoWow, y con esto pude hacer una lista: barata, completa y simple, doy créditos a MJ de ÚltimoWow y a Hodas de Warmane por darme una idea para esta guía.
 
@@ -45,7 +45,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Diamante Negro = 6</li>
         <li>Espesartita de llamas = 7</li>
         <li>Draenita Dorada = 2</li>
-        <li>Sangrita = 8</li>
+        <li>Sangrita = 14</li>
       </ul>
     </td>
   </tr>
@@ -184,11 +184,22 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>Repetir (~3 veces)</td>
     </tr>
     <tr>
-      <td>350-375</td>
+      <td>350-390</td>
       <td>8</td>
       <td>Sangrita Rúnica</td>
       <td>8 Sangrita</td>
-      <td>A veces 1 más (ya puedes hacer mega gemas)</td>
+      <td>Repetir hasta que nos dé los puntos que nos faltan, a este punto ya puedes hacer mega gemas</td>
+</tr>
+    <tr>
+      <td>350-375</td>
+      <td>14</td>
+      <td>Sangrita Rúnica</td>
+      <td>14 Sangrita</td>
+      <td>Repetir hasta que nos dé los puntos que nos faltan, a este punto ya puedes hacer mega gemas</td>
+    
+    
+    
+    
     </tr>
   </tbody>
 </table>
