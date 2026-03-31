@@ -204,12 +204,19 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>10 Diamante de Llama Celeste</td>
       <td>A veces se requiere 1 más</td>
     </tr>
-
-
-
-
-
-
-    
   </tbody>
 </table>
+
+| Material | Cantidad | Material | Cantidad |
+|----------|----------|----------|----------|
+| Piedra Férrea | 136 | Barra de Bronce | 86 |
+| Engarce de Bronce | 25 | Piedra lunar inferior | 40 |
+| Barra de Mitril | 16 | Filigrana de Mitril | 3 |
+| Citrino | 8 | Piedra Sólida | 60 |
+| Barra de Veraplata | 72 | Aguamarina | 8 |
+| Frasco de Mojo | 8 | Barra de Torio | 7 |
+| Corazón de Fiera | 24 | Engarce de Torio | 8 |
+| Zafiro Azul | 6 | Esencia de No-Muerto | 6 |
+| Diamante Negro | 6 | Espesartita de llamas | 7 |
+| Draenita Dorada | 2 | Sangrita | 14 |
+| Esmeralda del Bosque | 10 | Diamante de Llama Celeste | 10 |
