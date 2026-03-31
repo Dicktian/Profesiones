@@ -184,18 +184,18 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>Repetir (~3 veces)</td>
     </tr>
     <tr>
-      <td>350-390</td>
-      <td>8</td>
-      <td>Sangrita Rúnica</td>
-      <td>8 Sangrita</td>
-      <td>Repetir hasta que nos dé los puntos que nos faltan, a este punto ya puedes hacer mega gemas</td>
-</tr>
-    <tr>
-      <td>350-375</td>
+      <td>350-392</td>
       <td>14</td>
       <td>Sangrita Rúnica</td>
       <td>14 Sangrita</td>
       <td>Repetir hasta que nos dé los puntos que nos faltan, a este punto ya puedes hacer mega gemas</td>
+</tr>
+    <tr>
+      <td>392-416</td>
+      <td>8</td>
+      <td>Esmeralda del Bosque Deslumbrante</td>
+      <td>8 Esmeralda del Bosque</td>
+      <td>A veces se requiere 1 más</td>
     
     
     
