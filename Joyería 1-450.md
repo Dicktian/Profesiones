@@ -6,7 +6,7 @@ Al revisar y comparar ambas guías, el principal problema era que utilizan mater
 
 ¿Qué te ofrezco con está guía? Leveo rápido, posibiliad de vender en AH y si sigues mi guía de Ingeniería tambien tienes la posibilidad de levearlas juntas, te recomiendo levear hasta los 300p en El Exodar, y luego te vas a Dalaran, y para terminar, los cálculos de puntos están basados en un draenei, por lo que deberás tomar de referencia la tabla.
 
-<h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
+<h3 style="color:#B8860B;">“Materiales totales estimados”</h3>
 
 Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmear un poco más de cada ítem, ya que algunas recetas pasan a estado amarillo y existe la posibilidad de no obtener puntos de habilidad en cada intento, esto ayuda a evitar viajes adicionales a la casa de subastas, cuando estes viendo los materiales y los puntos, verás que la guía no cuadra, eso es porque en algunas recetas puse mayores cantidades, ya que usaras lo resultante en otras recetas, por ejemplo: Engarce de Bronce.
 
