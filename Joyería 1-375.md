@@ -29,23 +29,25 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Barra de Veraplata = 72</li>
         <li>Aguamarina = 8</li>
         <li>Frasco de Mojo = 8</li>
+        <li>Barra de Torio = 7</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li>Barra de Torio = 7</li>
         <li>Corazón de Fiera = 24</li>
         <li>Engarce de Torio = 8</li>
         <li>Zafiro Azul = 6</li>
         <li>Esencia de No-Muerto = 6</li>
+        <li>Diamante Negro = 6</li>
+        <li>Espesartita de llamas = 7</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li>Diamante Negro = 6</li>
-        <li>Espesartita de llamas = 7</li>
         <li>Draenita Dorada = 2</li>
         <li>Sangrita = 14</li>
+        <li>Esmeralda del Bosque = 10</li>
+        <li>Diamante de Llama Celeste = 10</li>
       </ul>
     </td>
   </tr>
