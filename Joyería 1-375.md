@@ -2,9 +2,9 @@
 
 Después de levearme 3 chars (Priest, War y Shamy) al hilo, tuve que subirles joyería, en el proceso vi varias guías tanto en Warmane cómo en ÚltimoWow, y con esto pude hacer una lista: barata, completa y simple, doy créditos a MJ de ÚltimoWow y a Hodas de Warmane por darme una idea para esta guía.
 
-Y aunque el principal problema de ambas guías es que utilizan materiales caros y difíciles de conseguir en el servidor (por la competencia), y además poco eficientes porque varias recetas apenas otorgan 3 o 6 puntos de habilidad, lo que ralentiza mucho el progreso, y lo hace caro porque no solo gastas una gran cantidad de oro en los materiales, sino también en aprender recetas del instructor que terminan siendo innecesarias a largo plazo.
+Al revisar y comparar ambas guías, el principal problema era que utilizan materiales caros y difíciles de conseguir en el servidor (factores varios), y además poco eficientes debio a que varias recetas apenas otorgan 3 o 6 puntos de habilidad, lo que ralentiza el progreso y lo hace caro porque no solo gastas una gran cantidad de oro en los materiales, sino también en aprender recetas del instructor que terminan siendo innecesarias a largo plazo.
 
-¿Qué te ofrezco con está guía? Leveo rápido, posibiliad de vender en AH y si sigues mi guía de Ingeniería tambien tienes la posibilidad de levearlas juntas, te recomiendo levear hasta los 300p en El Exodar, y luego te vas a Dalaran.
+¿Qué te ofrezco con está guía? Leveo rápido, posibiliad de vender en AH y si sigues mi guía de Ingeniería tambien tienes la posibilidad de levearlas juntas, te recomiendo levear hasta los 300p en El Exodar, y luego te vas a Dalaran, y para terminar, los cálculos de puntos están basados en un draenei, por lo que deberás tomar de referencia la tabla.
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
 
@@ -19,29 +19,29 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Engarce de Bronce = 25</li>
         <li>Piedra lunar inferior = 40</li>
         <li>Barra de Mitril = 16</li>
+        <li>Filigrana de Mitril = 3</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li>Filigrana de Mitril = 3</li>
         <li>Citrino = 8</li>
         <li>Piedra Sólida = 60</li>
         <li>Barra de Veraplata = 72</li>
         <li>Aguamarina = 8</li>
+        <li>Frasco de Mojo = 8</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li>Frasco de Mojo = 8</li>
         <li>Barra de Torio = 7</li>
         <li>Corazón de Fiera = 24</li>
         <li>Engarce de Torio = 8</li>
         <li>Zafiro Azul = 6</li>
+        <li>Esencia de No-Muerto = 6</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li>Esencia de No-Muerto = 6</li>
         <li>Diamante Negro = 6</li>
         <li>Espesartita de llamas = 7</li>
         <li>Draenita Dorada = 2</li>
@@ -191,15 +191,25 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>Repetir hasta que nos dé los puntos que nos faltan, a este punto ya puedes hacer mega gemas</td>
 </tr>
     <tr>
-      <td>392-416</td>
-      <td>8</td>
+      <td>392-422</td>
+      <td>10</td>
       <td>Esmeralda del Bosque Deslumbrante</td>
-      <td>8 Esmeralda del Bosque</td>
+      <td>10 Esmeralda del Bosque</td>
       <td>A veces se requiere 1 más</td>
-    
-    
-    
-    
     </tr>
+<tr>
+      <td>422-450</td>
+      <td>10</td>
+      <td>Diamante de Llama Celeste Presto</td>
+      <td>10 Diamante de Llama Celeste</td>
+      <td>A veces se requiere 1 más</td>
+    </tr>
+
+
+
+
+
+
+    
   </tbody>
 </table>
