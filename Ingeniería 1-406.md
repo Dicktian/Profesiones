@@ -40,7 +40,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Barra de Acero = 4</li>
         <li>Barra de Mitril = 18</li>
         <li>Barra de Torio = 38</li>
-        <li>Barra de Hierro Vil = 50</li>
+        <li>Barra de Hierro Vil = 35</li>
         <li>Barra de Adamantita = 20</li>
         <li>Barra de Cobalto = 29</li>
       </ul>
@@ -233,9 +233,9 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
     </tr>
     <tr>
       <td>MAT</td>
-      <td>35</td>
+      <td>20</td>
       <td>Puñado de Tornillos de Hierro Vil</td>
-      <td>35 Barra de Hierro Vil</td>
+      <td>20 Barra de Hierro Vil</td>
       <td>Usar después</td>
     </tr>
     <tr>
