@@ -234,14 +234,14 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>Repetir (1–3 veces)</td>
     </tr>
     <tr>
-      <td>313</td>
+      <td>MAT</td>
       <td>10</td>
       <td>Puñado de Tornillos de Hierro Vil</td>
       <td>20 Barra de Hierro Vil</td>
       <td>Usar después</td>
     </tr>
     <tr>
-      <td>313</td>
+      <td>MAT</td>
       <td>5</td>
       <td>Envoltura de Hierro Vil</td>
       <td>15 Barra de Hierro Vil</td>
