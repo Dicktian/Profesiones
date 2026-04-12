@@ -17,7 +17,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Piedra Férrea = 13</li>
         <li>Piedra Pesada = 5</li>
         <li>Piedra Sólida = 12</li>
-        <li>Piedra Densa = 2</li>
+        <li>Piedra Densa = 8</li>
         <li>Paño de Lino = 2</li>
         <li>Paño de Tejido Mágico = 6</li>
         <li>Madeja de Tejido Mágico = 16</li>
@@ -202,7 +202,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>250-262</td>
       <td>4</td>
       <td>Pólvora Densa</td>
-      <td>2 Piedra Densa</td>
+      <td>8 Piedra Densa</td>
       <td>Repetir (7–10 veces)</td>
     </tr>
     <tr>
