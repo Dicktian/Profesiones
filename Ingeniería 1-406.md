@@ -40,7 +40,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Barra de Acero = 4</li>
         <li>Barra de Mitril = 18</li>
         <li>Barra de Torio = 38</li>
-        <li>Barra de Hierro Vil = 40</li>
+        <li>Barra de Hierro Vil = 55</li>
         <li>Barra de Adamantita = 20</li>
         <li>Barra de Cobalto = 29</li>
       </ul>
