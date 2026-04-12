@@ -172,7 +172,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>Repetir (~10 veces)</td>
     </tr>
     <tr>
-      <td>300-341</td>
+      <td>320-341</td>
       <td>7</td>
       <td>Espesartita de Llamas Destellante</td>
       <td>7 Espesartita de llamas</td>
