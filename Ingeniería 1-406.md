@@ -47,13 +47,11 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
     </td>
     <td valign="top">
       <ul>
-        <li>Barra de Saronita = 12</li>
         <li>Flujo Débil = 10</li>
         <li>Ágata Musgosa = 3</li>
         <li>Mota de Fuego = 4</li>
         <li>Mota de Tierra = 8</li>
         <li>Agua Cristalizada = 8</li>
-        <li>Aire Cristalizado = 8</li>
       </ul>
     </td>
   </tr>
@@ -287,13 +285,13 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>2</td>
       <td>Tubo de Acero Gélido Reforzado</td>
       <td>8 Barra de Cobalto + 1 Agua Cristalizada</td>
-      <td>Repetir (1–3 veces)</td>
+      <td>Repetir (1–3 veces) Se usa para la siguiente receta</td>
     </tr>
     <tr>
       <td>400-406</td>
       <td>2</td>
-      <td>Aceleradores de Hipervelocidad</td>
-      <td>8 Aire Cristalizado + 12 Barra de Saronita</td>
+      <td>Mira Refractaria de Corte de Diamante</td>
+      <td>2 Tubo de Acero Gélido Reforzado + 4 Puñado de Tornillos de Cobalto </td>
       <td>-</td>
     </tr>
   </tbody>
