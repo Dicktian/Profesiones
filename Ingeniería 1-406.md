@@ -103,7 +103,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>10</td>
       <td>Tubo de Cobre</td>
       <td>20 Barra de Cobre + 10 Flujo Débil</td>
-      <td>Hacer extra para futuras recetas</td>
+      <td>Vender AH</td>
     </tr>
     <tr>
       <td>85-97</td>
