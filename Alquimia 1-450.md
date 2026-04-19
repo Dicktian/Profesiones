@@ -42,7 +42,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
         <li>Trébol de Oro = 7</li>
         <li>Ortiga Mortal = 2</li>
         <li>Rémora Pigmea = 4</li>
-        <li>Lirio Atigrado = 3</li>
+        <li>Lirio Atigrado = 6</li>
         <li>Velada = 1</li>
         <li>Alga Estranguladora = 16</li>
       </ul>
@@ -204,7 +204,7 @@ Nota: Las cantidades de materiales pueden variar, te recomiendo comprar o farmea
       <td>387-396</td>
       <td>3</td>
       <td>Elixir de Fuerza Poderosa</td>
-      <td>3 Lirio Atigrado + 3 Vial derretido</td>
+      <td>6 Lirio Atigrado + 3 Vial derretido</td>
       <td>A veces 1 más</td>
     </tr>
     <tr>
