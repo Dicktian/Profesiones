@@ -2,7 +2,7 @@
 
 Tuve la brillante idea de crearme 10 trasmutadores, por lo que tuve que subirles la alquimia a 10 personajes a 450, está guía nace como una forma de automatizar el leveo, esto es una mejora a las guías de Zelta (2016) y Dagax (2019) considerando los multiplicadores actuales, además de ajustar algunas recetas por opciones más accesibles en la casa de subastas, el crédito corresponde a Zelta y Dagax.
 
-Esta guía está enfocada en la especialización de trasmutación, puedes revisar las misiones haciendo click en la especialidad que desees obtener: [Trasmutación ](https://www.wowhead.com/es/quest=10899/maestro-de-transmutaci%C3%B3n), [Elixires ](https://www.wowhead.com/es/quest=10902/maestro-en-elixires), [Pociones ](https://www.wowhead.com/es/quest=10897/maestro-en-pociones)
+Esta guía está enfocada en la especialización de trasmutación, puedes revisar las misiones haciendo click en la especialidad que desees obtener: [Trasmutación ](https://www.wowhead.com/es/quest=10899/maestro-de-transmutaci%C3%B3n), [Elixires ](https://www.wowhead.com/es/quest=10902/maestro-en-elixires) y [Pociones ](https://www.wowhead.com/es/quest=10897/maestro-en-pociones)
 
 
 <h3 style="color:#B8860B;">Materiales Necesarios Mínimos</h3>
